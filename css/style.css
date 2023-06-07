@@ -1,0 +1,13 @@
+.row {
+    margin-bottom: 15px;
+}
+.row > div {
+    height: 150px;
+    border: 2px solid red;
+    background-color: grey;
+    margin-top: 10px;
+}
+
+.head {
+    text-align: center;
+}
